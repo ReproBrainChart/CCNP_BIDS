@@ -1,42 +1,4 @@
 participant_id	study	euler	rater_1	rater_3	rater_4	rater_5	rater_6	across_rater_average	qc_determination
-sub-colornest003	CCNP	-81	1	1	1	1	1	1	Pass
-sub-colornest011	CCNP	-57	1	1	1	1	1	1	Pass
-sub-colornest012	CCNP	-54	1	1	1	1	1	1	Pass
-sub-colornest015	CCNP	-47	1	1	1	1	1	1	Pass
-sub-colornest025	CCNP	-69	1	1	1	1	1	1	Pass
-sub-colornest030	CCNP	-34	1	1	1	1	1	1	Pass
-sub-colornest048	CCNP	-45	1	1	1	1	1	1	Pass
-sub-colornest061	CCNP	-61	1	1	1	1	1	1	Pass
-sub-colornest063	CCNP	-104	1	1	1	1	1	1	Pass
-sub-colornest083	CCNP	-90	1	0.75	1	1	1	0.95	Artifact
-sub-colornest121	CCNP	-42	1	1	1	1	1	1	Pass
-sub-colornest124	CCNP	-28	1	1	1	1	1	1	Pass
-sub-colornest155	CCNP	-50	1	1	1	1	1	1	Pass
-sub-colornest156	CCNP	-37	1	1	1	1	1	1	Pass
-sub-colornest172	CCNP	-39	1	1	1	1	1	1	Pass
-sub-colornest179	CCNP	-24	1	1	1	1	1	1	Pass
-sub-colornest180	CCNP	-16	1	1	1	1	1	1	Pass
-sub-colornest182	CCNP	-32	1	1	1	1	1	1	Pass
-sub-colornest185	CCNP	-26	1	1	1	1	1	1	Pass
-sub-colornest032	CCNP	-49	1	1	1	1	1	1	Pass
-sub-colornest037	CCNP	-30	1	1	1	1	1	1	Pass
-sub-colornest043	CCNP	-38	1	1	1	1	1	1	Pass
-sub-colornest044	CCNP	-27	1	1	1	1	1	1	Pass
-sub-colornest056	CCNP	-73	1	1	1	1	1	1	Pass
-sub-colornest058	CCNP	-95	1	1	1	1	1	1	Pass
-sub-colornest065	CCNP	-36	1	1	1	1	1	1	Pass
-sub-colornest068	CCNP	-56	1	0.75	1	1	1	0.95	Artifact
-sub-colornest082	CCNP	-41	1	1	1	1	1	1	Pass
-sub-colornest091	CCNP	-43	1	1	1	1	1	1	Pass
-sub-colornest105	CCNP	-126	1	0.25	1	0.5	1	0.75	Artifact
-sub-colornest118	CCNP	-59	1	1	1	1	1	1	Pass
-sub-colornest128	CCNP	-52	1	1	1	1	1	1	Pass
-sub-colornest130	CCNP	-25	1	1	1	1	1	1	Pass
-sub-colornest146	CCNP	-66	1	1	1	1	1	1	Pass
-sub-colornest151	CCNP	-33	0.75	1	1	1	1	0.95	Artifact
-sub-colornest162	CCNP	-87	1	1	1	1	1	1	Pass
-sub-colornest165	CCNP	-19	1	1	1	1	1	1	Pass
-sub-colornest191	CCNP	-47	1	1	1	1	1	1	Pass
 sub-colornest001	CCNP	-26	1	1				1	Pass
 sub-colornest009	CCNP	-80	1	0.25				0.625	Artifact
 sub-colornest010	CCNP	-64	1	1				1	Pass
@@ -189,3 +151,46 @@ sub-colornest174	CCNP	-25		1	1		1	1	Pass
 sub-colornest183	CCNP	-38		1	1		1	1	Pass
 sub-colornest186	CCNP	-61		1	1		1	1	Pass
 sub-colornest187	CCNP	-35		1	1		1	1	Pass
+sub-colornest003	CCNP	-81	1	1	1	1	1	1	Pass
+sub-colornest011	CCNP	-57	1	1	1	1	1	1	Pass
+sub-colornest012	CCNP	-54	1	1	1	1	1	1	Pass
+sub-colornest015	CCNP	-47	1	1	1	1	1	1	Pass
+sub-colornest025	CCNP	-69	1	1	1	1	1	1	Pass
+sub-colornest030	CCNP	-34	1	1	1	1	1	1	Pass
+sub-colornest039	CCNP	-208	0.5		0	0	0	0.125	Artifact
+sub-colornest048	CCNP	-45	1	1	1	1	1	1	Pass
+sub-colornest061	CCNP	-61	1	1	1	1	1	1	Pass
+sub-colornest063	CCNP	-104	1	1	1	1	1	1	Pass
+sub-colornest083	CCNP	-90	1	0.75	1	1	1	0.95	Artifact
+sub-colornest121	CCNP	-42	1	1	1	1	1	1	Pass
+sub-colornest124	CCNP	-28	1	1	1	1	1	1	Pass
+sub-colornest155	CCNP	-50	1	1	1	1	1	1	Pass
+sub-colornest156	CCNP	-37	1	1	1	1	1	1	Pass
+sub-colornest172	CCNP	-39	1	1	1	1	1	1	Pass
+sub-colornest179	CCNP	-24	1	1	1	1	1	1	Pass
+sub-colornest180	CCNP	-16	1	1	1	1	1	1	Pass
+sub-colornest182	CCNP	-32	1	1	1	1	1	1	Pass
+sub-colornest185	CCNP	-26	1	1	1	1	1	1	Pass
+sub-colornest032	CCNP	-49	1	1	1	1	1	1	Pass
+sub-colornest037	CCNP	-30	1	1	1	1	1	1	Pass
+sub-colornest043	CCNP	-38	1	1	1	1	1	1	Pass
+sub-colornest044	CCNP	-27	1	1	1	1	1	1	Pass
+sub-colornest056	CCNP	-73	1	1	1	1	1	1	Pass
+sub-colornest058	CCNP	-95	1	1	1	1	1	1	Pass
+sub-colornest065	CCNP	-36	1	1	1	1	1	1	Pass
+sub-colornest068	CCNP	-56	1	0.75	1	1	1	0.95	Artifact
+sub-colornest082	CCNP	-41	1	1	1	1	1	1	Pass
+sub-colornest091	CCNP	-43	1	1	1	1	1	1	Pass
+sub-colornest105	CCNP	-126	1	0.25	1	0.5	1	0.75	Artifact
+sub-colornest118	CCNP	-59	1	1	1	1	1	1	Pass
+sub-colornest128	CCNP	-52	1	1	1	1	1	1	Pass
+sub-colornest130	CCNP	-25	1	1	1	1	1	1	Pass
+sub-colornest146	CCNP	-66	1	1	1	1	1	1	Pass
+sub-colornest151	CCNP	-33	0.75	1	1	1	1	0.95	Artifact
+sub-colornest162	CCNP	-87	1	1	1	1	1	1	Pass
+sub-colornest165	CCNP	-19	1	1	1	1	1	1	Pass
+sub-colornest191	CCNP	-47	1	1	1	1	1	1	Pass
+sub-colornest034	CCNP	-11	1		1	1	1	1	Pass
+sub-colornest092	CCNP		1		1	1	1	1	Pass
+sub-colornest163	CCNP	-12	1		1	1	1	1	Pass
+sub-colornest175	CCNP	-8	1		1	1	1	1	Pass
