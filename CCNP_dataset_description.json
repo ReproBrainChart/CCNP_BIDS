@@ -1,0 +1,41 @@
+{
+    "Acknowledgements": "Statistician Ting Xu is acknowledged for advice with data extraction and statistical analyses. Daniel Margulies (Université de Paris), Avram Holmes (Yale University) and Irene Droney (Child Mind Institute) are acknowledged for assistance on proofreading the manuscript. Research staff members Hao-Ming Dong, Zhu-Qing Gong, Lei Zhang and Xue-Ru Fan deserve gratitude for data extraction. Education coordinators Xu Chen, Jiang Qiu, Antao Chen, Ting-Yong Feng and Xun Liu are acknowledged for help with practical arrangements. We are also grateful to all families participating in this cohort project and all the support from schools and the communities.",
+    "Authors": [
+        "Siman Liu",
+        "Yin-Shan Wang",
+        "Qing Zhang",
+        "Quan Zhou",
+        "Li-Zhi Cao",
+        "Chao Jiang",
+        "Zhe Zhang",
+        "Ning Yang",
+        "Qi Dong",
+        "Xi-Nian Zuo",
+        "The Chinese Color Nest Consortium"
+    ],
+    "BIDSVersion": "1.0.2",
+    "DatasetDOI": [
+        "https://doi.org/10.1016/j.dcn.2021.101020",
+        "10.17605/OSF.IO/ER248"
+    ],
+    "Funding": [
+        "Start-up Funds for Leading Talents - Beijing Normal University",
+        "2019B030335001",
+        "NBSDC-DB-15",
+        "Z161100002616023",
+        "Z181100001518003",
+        "20&ZD296",
+        "153111KYSB20160020",
+        "201621",
+        "2015CB351702",
+        "8122010801",
+        "KSZD-EW-TZ-002",
+        "2015CB351702"
+    ],
+    "HowToAcknowledge": "If you reference this dataset in your publications, please cite the DOIs listed above.",
+    "License": "CC BY-NC-SA",
+    "Name": "CCNP",
+    "ReferencesAndLinks": [
+        "Liu, S., Wang, Y.-S., Zhang, Q., Zhou, Q., Cao, L.-Z., Jiang, C., Zhang, Z., Yang, N., Dong, Q., & Zuo, X.-N. (2021). Chinese Color Nest Project: An accelerated longitudinal brain-mind cohort. Developmental Cognitive Neuroscience, 52, 101020. https://doi.org/10.1016/j.dcn.2021.101020"
+    ]
+}
