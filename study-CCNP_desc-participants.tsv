@@ -1,196 +1,196 @@
-participant_id	study	study_site	session	wave	age	sex	race	ethnicity	bmi	handedness	participant_education	parent_1_education	parent_2_education	p_factor_mcelroy_harmonized_all_samples	internalizing_mcelroy_harmonized_all_samples	externalizing_mcelroy_harmonized_all_samples	attention_mcelroy_harmonized_all_samples	cubids_acquisition_group
-sub-colornest001	Colornest	Colornest	ses-1	1	13.56438356	Female	Asian	not Hispanic or Latino	19.48031546	Right	6th Grade	Complete secondary	Complete secondary	-0.436776525	-0.244731893	-1.283753505	-1.081927046	1
-sub-colornest002	Colornest	Colornest	ses-1	1	15.51232877	Female	Asian	not Hispanic or Latino	17.62966944	Right	6th Grade	Complete primary	Complete primary	0.255866303	-1.196161158	-1.044509812	-1.572112878	1
-sub-colornest003	Colornest	Colornest	ses-1	1	11.38356164	Female	Asian	not Hispanic or Latino	25.06059557	Right	6th Grade	Complete tertiary	Complete tertiary	-0.18378996	1.021295171	1.61235435	-0.258784801	1
-sub-colornest004	Colornest	Colornest	ses-1	1	9.093150685	Female	Asian	not Hispanic or Latino	16.15067796	Right	6th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest005	Colornest	Colornest	ses-1	1	6.526027397	Male	Asian	not Hispanic or Latino	24.6059208	Right	6th Grade	Complete primary	Complete primary	-0.000804532	1.355746228	-0.580413026	1.933178257	1
-sub-colornest006	Colornest	Colornest	ses-1	1	8.77260274	Male	Asian	not Hispanic or Latino	20.83862209	Right	6th Grade	Complete primary	Complete primary	0.581310185	-1.880335011	-0.450897643	-0.408615187	2
-sub-colornest007	Colornest	Colornest	ses-1	1	11.22739726	Male	Asian	not Hispanic or Latino	15.24676299	Right	6th Grade	Complete primary	Complete primary	-1.211701392	0.315740884	-0.458092942	-0.625036856	1
-sub-colornest008	Colornest	Colornest	ses-1	1	10.54520548	Male	Asian	not Hispanic or Latino	17.21729126	Right	6th Grade	Complete primary	Complete primary					1
-sub-colornest009	Colornest	Colornest	ses-1	1	11.70684932	Male	Asian	not Hispanic or Latino	21.01199169	Right	6th Grade	No/incomplete primary	No/incomplete primary	0.079021325	-0.597509036	0.074359185	-1.041232374	1
-sub-colornest010	Colornest	Colornest	ses-1	1	8.301369863	Female	Asian	not Hispanic or Latino	22.9760666	Right	6th Grade	Complete primary	Complete primary	0.619380979	-1.445090484	-0.485075314	-0.773017485	1
-sub-colornest011	Colornest	Colornest	ses-1	1	11.3260274	Male	Asian	not Hispanic or Latino	17.9092045	Right	6th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	2
-sub-colornest012	Colornest	Colornest	ses-1	1	12.88767123	Female	Asian	not Hispanic or Latino	20.50071729	Right	6th Grade	No/incomplete primary	No/incomplete primary	-0.562041718	0.079028948	-0.799869646	1.302410828	3
-sub-colornest013	Colornest	Colornest	ses-1	1	9.030136986	Male	Asian	not Hispanic or Latino	19.3877551	Right	4th Grade	Complete primary	Complete primary	-1.130647444	0.26534415	-0.494069437	0.636498001	2
-sub-colornest014	Colornest	Colornest	ses-1	1	10.77534247	Female	Asian	not Hispanic or Latino	19.53977385	Right	4th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest015	Colornest	Colornest	ses-1	1	11.47945205	Female	Asian	not Hispanic or Latino	30.26183062	Right	4th Grade	No/incomplete primary	Complete secondary	-0.123613545	-1.452726353	-0.814260244	-0.206991581	1
-sub-colornest016	Colornest	Colornest	ses-1	1	7.660273973	Female	Asian	not Hispanic or Latino	19.56085872	Right	4th Grade	Complete primary	Complete primary	-0.676254099	-0.026346042	1.011546882	0.207354178	1
-sub-colornest017	Colornest	Colornest	ses-1	1	7.619178082	Female	Asian	not Hispanic or Latino	23.64066194	Right	4th Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
-sub-colornest018	Colornest	Colornest	ses-1	1	7.139726027	Female	Asian	not Hispanic or Latino	21.68553689	Right	4th Grade	Complete primary	Complete primary	-0.051156227	-0.198916679	-1.091279256	0.090819433	1
-sub-colornest019	Colornest	Colornest	ses-1	1	10.95342466	Female	Asian	not Hispanic or Latino	23.39051014	Right	4th Grade	Complete primary	Complete primary	-0.909591222	-0.478389481	0.414337064	0.427475363	1
-sub-colornest020	Colornest	Colornest	ses-1	1	12.59452055	Female	Asian	not Hispanic or Latino	14.1723054	Right	4th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest021	Colornest	Colornest	ses-1	1	8.315068493	Male	Asian	not Hispanic or Latino	18.28402367	Right	4th Grade	Complete primary	Complete primary	0.856402372	0.347811534	-0.663158964	0.148161927	1
-sub-colornest022	Colornest	Colornest	ses-1	1	9.21369863	Male	Asian	not Hispanic or Latino	20.01911373	Right	4th Grade		Complete tertiary	0.02375727	-0.501297088	0.336987599	0.031627182	1
-sub-colornest023	Colornest	Colornest	ses-1	1	11.19726027	Female	Asian	not Hispanic or Latino	25.0821417	Right	4th Grade	Complete tertiary	Complete tertiary	-0.142034896	-1.442036136	0.423331188	1.237669303	8
-sub-colornest024	Colornest	Colornest	ses-1	1	6.632876712	Male	Asian	not Hispanic or Latino	21.53880943	Right	4th Grade	Complete primary	Complete secondary	0.209198878	-1.165617682	-0.321382261	-1.194762276	1
-sub-colornest025	Colornest	Colornest	ses-1	1	11.15890411	Male	Asian	not Hispanic or Latino	17.49271137	Right	4th Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
-sub-colornest026	Colornest	Colornest	ses-1	1	10.14246575	Male	Asian	not Hispanic or Latino	16.0229381	Right	4th Grade	Complete primary	Complete primary	-1.174858688	-0.922797051	-0.474282365	0.982402719	1
-sub-colornest027	Colornest	Colornest	ses-1	1	9.145205479	Female	Asian	not Hispanic or Latino	27.34375	Right	6th Grade	No/incomplete primary	Complete primary	-0.633270945	-1.179362246	0.187685145	1.624268695	1
-sub-colornest028	Colornest	Colornest	ses-1	1	12.8	Female	Asian	not Hispanic or Latino	13.79243827	Right	6th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest029	Colornest	Colornest	ses-1	1	6.961643836	Female	Asian	not Hispanic or Latino	18.65340887	Right	6th Grade	Complete primary	Complete primary	-0.757308047	-0.412721009	0.48089358	0.28319425	1
-sub-colornest030	Colornest	Colornest	ses-1	1	7.591780822	Female	Asian	not Hispanic or Latino	15.625	Right	6th Grade	Complete primary	Complete primary	-0.909591222	-0.478389481	0.414337064	0.427475363	1
-sub-colornest031	Colornest	Colornest	ses-1	1	10.86575342	Male	Asian	not Hispanic or Latino	23.17824637	Left	4th Grade	Complete tertiary	Complete tertiary					1
-sub-colornest032	Colornest	Colornest	ses-1	1	9.863013699	Male	Asian	not Hispanic or Latino	17.67676768	Right	4th Grade	Complete primary	Complete primary	1.192899065	-0.927378572	2.700643327	-2.189932001	1
-sub-colornest033	Colornest	Colornest	ses-1	1	17.15342466	Female	Asian	not Hispanic or Latino	17.66803841	Right	4th Grade	Complete primary	Complete primary	-0.056068588	-0.993047045	-0.630780119	1.172927778	2
-sub-colornest034	Colornest	Colornest	ses-1	1	13.21369863	Male	Asian	not Hispanic or Latino	14.9937526	Right	1st Grade	Complete primary	Complete primary	0.4302551	0.543289778	-1.181220494	-0.841458525	1
-sub-colornest035	Colornest	Colornest	ses-1	1	8.331506849	Female	Asian	not Hispanic or Latino	17.31474148	Right	1st Grade	Complete secondary	Complete secondary	-0.600112511	0.468458262	0.160702773	0.135213622	9
-sub-colornest036	Colornest	Colornest	ses-1	1	16.03835616	Female	Asian	not Hispanic or Latino	14.29752066	Right	1st Grade	Complete tertiary	Complete secondary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
-sub-colornest037	Colornest	Colornest	ses-1	1	11.50410959	Male	Asian	not Hispanic or Latino	18.26388889	Right	1st Grade	Complete primary	Complete primary	-0.578006889	-0.670813377	-1.218995814	-0.991288912	1
-sub-colornest038	Colornest	Colornest	ses-1	1	11.50410959	Male	Asian	not Hispanic or Latino	17.13249127	Right	1st Grade	Complete primary	Complete primary	-0.352038307	0.07139308	0.112134505	-0.099705626	1
-sub-colornest039	Colornest	Colornest	ses-1	1	13.98356164	Female	Asian	not Hispanic or Latino	18.19325495	Right	1st Grade	Complete primary	Complete primary	-1.465916047	-0.754807935	-0.360956406	0.952806594	1
-sub-colornest040	Colornest	Colornest	ses-1	1	7.720547945	Male	Asian	not Hispanic or Latino	16.61603323	Right	1st Grade	Complete primary	Complete tertiary	-0.037647236	-0.866291621	-1.451044207	-1.353841451	1
-sub-colornest041	Colornest	Colornest	ses-1	1	7.64109589	Male	Asian	not Hispanic or Latino	14.68635775	Right	1st Grade	Complete tertiary	Complete tertiary	-0.151859617	-0.234041676	-0.235038673	-0.181094971	4
-sub-colornest042	Colornest	Colornest	ses-1	1	13.16164384	Female	Asian	not Hispanic or Latino	17.344	Right	1st Grade	Complete secondary	Complete tertiary	-1.174858688	-0.922797051	-0.474282365	0.982402719	1
-sub-colornest043	Colornest	Colornest	ses-1	1	16.55342466	Female	Asian	not Hispanic or Latino	14.42428823	Right	1st Grade	Complete secondary	Complete secondary	1.160968722	0.213420241	0.486290054	-1.246555496	1
-sub-colornest044	Colornest	Colornest	ses-1	1	9.353424658	Male	Asian	not Hispanic or Latino	15.99333611	Right	2nd Grade	Complete tertiary	Complete tertiary	-1.211701392	0.315740884	-0.458092942	-0.625036856	1
-sub-colornest045	Colornest	Colornest	ses-1	1	13.07123288	Female	Asian	not Hispanic or Latino	15.616	Right	2nd Grade	Complete primary	Complete primary	0.163759544	-0.600563384	2.45600316	-0.588041699	1
-sub-colornest046	Colornest	Colornest	ses-1	1	12.39452055	Male	Asian	not Hispanic or Latino	16.39436938	Right	2nd Grade	Complete primary	Complete primary	-0.169052879	-0.62347099	0.448514734	-0.273582864	1
-sub-colornest047	Colornest	Colornest	ses-1	1	16.34520548	Male	Asian	not Hispanic or Latino	14.48559671	Right	2nd Grade	Complete tertiary	Complete secondary	-0.603796782	-0.654014466	0.752516118	-0.974641091	1
-sub-colornest048	Colornest	Colornest	ses-1	1	16.34520548	Male	Asian	not Hispanic or Latino	15.82291798	Right	2nd Grade	Complete tertiary	Complete tertiary	-1.042224955	-0.243204719	-0.535442407	-0.042363132	1
-sub-colornest049	Colornest	Colornest	ses-1	1	11.40547945	Female	Asian	not Hispanic or Latino	15.5200215	Right	2nd Grade	Complete primary	Complete primary	-0.705728262	-1.142710075	2.015291096	1.422645089	1
-sub-colornest050	Colornest	Colornest	ses-1	1	12.07945205	Female	Asian	not Hispanic or Latino	19.264	Right	2nd Grade	Complete secondary	Complete secondary	0.977983294	-1.353460057	0.189483969	-1.36309024	1
-sub-colornest051	Colornest	Colornest	ses-1	1	8.915068493	Female	Asian	not Hispanic or Latino	13.03204787	Right	2nd Grade	Complete secondary	Complete secondary	-0.839590085	-0.518095999	-0.637975418	-0.160747635	1
-sub-colornest052	Colornest	Colornest	ses-1	1	10.89863014	Male	Asian	not Hispanic or Latino	16.64	Right	2nd Grade	Complete primary	No/incomplete primary	-0.309055153	1.174012549	0.471899456	-0.034964101	6
-sub-colornest053	Colornest	Colornest	ses-1	1	16.17260274	Female	Asian	not Hispanic or Latino	15.43261933	Right	2nd Grade	Complete tertiary	Complete tertiary	-1.114682272	-0.513514478	-0.501264736	-0.676830076	1
-sub-colornest054	Colornest	Colornest	ses-1	1	9.701369863	Female	Asian	not Hispanic or Latino	15.01464844	Left	2nd Grade	Complete primary	Complete primary	-1.370125017	-0.058416692	-0.395134076	-0.543647511	1
-sub-colornest055	Colornest	Colornest	ses-1	1	10.85479452	Female	Asian	not Hispanic or Latino	20.82869236	Right	2nd Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest056	Colornest	Colornest	ses-1	1	7.509589041	Male	Asian	not Hispanic or Latino	14.13265306	Right	2nd Grade	Complete primary	Complete primary	0.895701256	0.149278942	0.286620506	1.32645768	1
-sub-colornest057	Colornest	Colornest	ses-1	1	15.78082192	Female	Asian	not Hispanic or Latino	21.56051512	Right	2nd Grade	Complete secondary	Complete tertiary	-0.438004615	-0.910579661	0.189483969	0.397879237	1
-sub-colornest058	Colornest	Colornest	ses-1	1	7.509589041	Male	Asian	not Hispanic or Latino	14.51749327	Right	2nd Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest059	Colornest	Colornest	ses-1	1	9.649315068	Female	Asian	not Hispanic or Latino	14.90735081	Right	2nd Grade	Complete primary	Complete primary	-1.475740768	-0.797568801	-0.357358756	0.962055383	1
-sub-colornest060	Colornest	Colornest	ses-1	1	7.306849315	Female	Asian	not Hispanic or Latino	14.81398975	Right	2nd Grade	Complete secondary	Complete tertiary					1
-sub-colornest061	Colornest	Colornest	ses-1	1	8.17260274	Female	Asian	not Hispanic or Latino	16.45090169	Right	2nd Grade	Complete primary	Complete primary	0.297621367	0.243963717	-0.110919765	-0.184794487	1
-sub-colornest062	Colornest	Colornest	ses-1	1	13.54794521	Female	Asian	not Hispanic or Latino	14.43555363	Right	2nd Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
-sub-colornest063	Colornest	Colornest	ses-1	1	11.94794521	Male	Asian	not Hispanic or Latino	20.91952683	Right	2nd Grade	Complete primary	Complete primary	-0.273440539	-0.354688405	0.03838269	1.061942307	5
-sub-colornest064	Colornest	Colornest	ses-1	1	10.54520548	Female	Asian	not Hispanic or Latino	23.76787289	Right	2nd Grade	Complete primary	Complete secondary	0.080249416	0.772365845	0.059968587	1.067491581	1
-sub-colornest065	Colornest	Colornest	ses-1	1	11.40821918	Male	Asian	not Hispanic or Latino	20.37387104	Right	2nd Grade	Complete primary	Complete primary	-1.113454182	-0.365378621	0.579828941	-0.676830076	1
-sub-colornest066	Colornest	Colornest	ses-1	1	9.465753425	Male	Asian	not Hispanic or Latino	14.94202988	Right	2nd Grade	Complete primary	Complete primary	0.277971925	-1.689438289	-0.704531934	-0.169996424	1
-sub-colornest067	Colornest	Colornest	ses-1	1	10.14520548	Female	Asian	not Hispanic or Latino	15.26717557	Right	2nd Grade	Complete secondary	Complete tertiary	-1.042224955	-0.982356829	0.516870075	0.553258897	1
-sub-colornest068	Colornest	Colornest	ses-1	1	9.271232877	Female	Asian	not Hispanic or Latino	17.68908666	Right	2nd Grade	Complete secondary	Complete primary	-0.709412532	-0.003438436	-0.711727233	1.122984316	1
-sub-colornest069	Colornest	Colornest	ses-1	1	11.3260274	Male	Asian	not Hispanic or Latino	14.43808533	Right	2nd Grade	Complete primary	Complete primary	-0.364319208	-0.65554164	-0.044363249	2.206942419	2
-sub-colornest070	Colornest	Colornest	ses-1	1	14.31506849	Male	Asian	not Hispanic or Latino	15.03738305	Right	2nd Grade	Complete primary	Complete primary					1
-sub-colornest071	Colornest	Colornest	ses-1	1	8.931506849	Male	Asian	not Hispanic or Latino	16.55234328	Right	2nd Grade	Complete primary	Complete tertiary	0.555520292	-0.365378621	-0.323181086	-0.961692786	1
-sub-colornest072	Colornest	Colornest	ses-1	1	11.41917808	Female	Asian	not Hispanic or Latino	13.03204787	Right	2nd Grade	Complete primary	Complete secondary	1.238338399	0.731132152	-0.067747971	-2.232476432	1
-sub-colornest073	Colornest	Colornest	ses-1	1	7.619178082	Female	Asian	not Hispanic or Latino	16.21972318	Right	3rd Grade	Complete secondary	Complete secondary	0.437623641	-0.058416692	-1.017527441	-0.73417257	7
-sub-colornest074	Colornest	Colornest	ses-1	1	11.92054795	Male	Asian	not Hispanic or Latino	16.64370983	Right	3rd Grade	Complete primary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest075	Colornest	Colornest	ses-1	1	12.69315068	Female	Asian	not Hispanic or Latino	15.97157998	Right	3rd Grade	Complete primary	Complete tertiary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest076	Colornest	Colornest	ses-1	1	15.4739726	Female	Asian	not Hispanic or Latino	15.99899219	Right	3rd Grade	Complete primary	Complete primary	0.476922525	-1.219068764	0.169696897	0.771530324	1
-sub-colornest077	Colornest	Colornest	ses-1	1	7.224657534	Male	Asian	not Hispanic or Latino	15.66393734	Right	3rd Grade	Complete primary	Complete primary	0.250953942	-0.093541689	-0.88081676	-0.14779933	1
-sub-colornest078	Colornest	Colornest	ses-1	1	16.73972603	Female	Asian	not Hispanic or Latino	14.23416449	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.598884421	-0.508932957	-0.776484924	2.390068447	1
-sub-colornest079	Colornest	Colornest	ses-1	1	16.41369863	Male	Asian	not Hispanic or Latino	17.58012983	Left	3rd Grade	Complete primary	Complete secondary	0.086389866	0.115681119	-0.749502553	0.76598105	1
-sub-colornest080	Colornest	Colornest	ses-1	1	9.331506849	Female	Asian	not Hispanic or Latino	20.23408054	Right	3rd Grade	Complete tertiary	Complete secondary	-0.601340602	-1.194633984	1.205819956	0.233250788	1
-sub-colornest081	Colornest	Colornest	ses-1	1	10.30410959	Male	Asian	not Hispanic or Latino	18.44757044		3rd Grade	Complete tertiary	Complete tertiary	1.120441748	0.824289753	-0.923988554	0.31833965	1
-sub-colornest082	Colornest	Colornest	ses-1	1	7.482191781	Female	Asian	not Hispanic or Latino	14.80716253	Right	3rd Grade	Complete primary	Complete primary	-0.440460796	-0.753280762	-0.808863769	-1.078227531	1
-sub-colornest083	Colornest	Colornest	ses-1	1	10.23835616	Male	Asian	not Hispanic or Latino	16.23822921	Right	3rd Grade	Complete primary	Complete primary	1.310795717	-1.23739485	-0.580413026	1.084139401	1
-sub-colornest084	Colornest	Colornest	ses-1	1	13.4109589	Female	Asian	not Hispanic or Latino	26.72757824	Right	3rd Grade	Complete secondary	Complete tertiary	-1.174858688	-0.922797051	-0.474282365	0.982402719	1
-sub-colornest085	Colornest	Colornest	ses-1	1	11.46575342	Male	Asian	not Hispanic or Latino	17.17403435	Right	3rd Grade	Complete secondary	Complete secondary					1
-sub-colornest086	Colornest	Colornest	ses-1	1	14.46027397	Male	Asian	not Hispanic or Latino	15.43015051	Left	3rd Grade	Complete tertiary	Complete tertiary	0.322183169	1.010604954	1.002552759	-0.510351869	1
-sub-colornest087	Colornest	Colornest	ses-1	1	11.29315068	Male	Asian	not Hispanic or Latino	14.336	Right	3rd Grade	Complete tertiary	Complete tertiary					1
-sub-colornest088	Colornest	Colornest	ses-1	1	10.61917808	Female	Asian	not Hispanic or Latino	31.10793683	Right	3rd Grade	Complete primary	Complete primary	-0.046243867	-0.99915574	0.903617397	0.087119918	1
-sub-colornest089	Colornest	Colornest	ses-1	1	11.32328767	Female	Asian	not Hispanic or Latino	18.46938776	Right	5th Grade	Complete primary	Complete tertiary	-0.494496761	-1.24961224	-1.256771133	-0.617637825	1
-sub-colornest090	Colornest	Colornest	ses-1	1	11.59726027	Male	Asian	not Hispanic or Latino	24.99890356	Right	5th Grade	Complete primary	Complete primary	0.301305637	-0.698302505	-0.405927024	0.901013374	1
-sub-colornest091	Colornest	Colornest	ses-1	1	9.309589041	Male	Asian	not Hispanic or Latino	20.26814523	Right	5th Grade	Complete primary	Complete primary	1.095879945	-1.535193737	-0.380743478	0.33498747	1
-sub-colornest092	Colornest	Colornest	ses-1	1	6.824657534	Female	Asian	not Hispanic or Latino	15.81644019	Right	5th Grade	Complete secondary	Complete secondary	-0.633270945	-1.179362246	0.187685145	1.624268695	1
-sub-colornest093	Colornest	Colornest	ses-1	1	13.50684932	Male	Asian	not Hispanic or Latino	18.01405515	Right	5th Grade	Complete secondary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest094	Colornest	Colornest	ses-1	1	8.323287671	Male	Asian	not Hispanic or Latino	18.89698231	Right	5th Grade	Complete primary	Complete primary	-0.436776525	-0.754807935	1.623147299	2.262435155	2
-sub-colornest095	Colornest	Colornest	ses-1	1	7.77260274	Female	Asian	not Hispanic or Latino	18.87517147	Right	5th Grade	No/incomplete primary	No/incomplete primary	-1.165033967	-0.24778624	-0.477880015	0.669793642	1
-sub-colornest096	Colornest	Colornest	ses-1	1	8.142465753	Female	Asian	not Hispanic or Latino	18.40242933	Right	5th Grade	Complete primary	Complete primary	-0.657832747	-0.548639475	0.207472217	-0.465957681	1
-sub-colornest097	Colornest	Colornest	ses-1	1	8.082191781	Male	Asian	not Hispanic or Latino	16.21548579	Right	5th Grade	Complete primary	Complete primary	-0.715552983	-1.138128554	-0.708129583	2.48255634	1
-sub-colornest098	Colornest	Colornest	ses-1	1	8.926027397	Female	Asian	not Hispanic or Latino	17.41440378	Right	5th Grade	Complete primary	Complete primary	-0.7880103	-0.547112301	-0.666756614	1.491086129	1
-sub-colornest099	Colornest	Colornest	ses-1	1	16.12876712	Female	Asian	not Hispanic or Latino	18.27942061	Right	5th Grade	Complete primary	Complete secondary	-0.013085434	-0.253894936	1.331737689	0.061223308	1
-sub-colornest100	Colornest	Colornest	ses-1	1	10.97808219	Female	Asian	not Hispanic or Latino	22.1161209	Right	5th Grade	Complete secondary	Complete secondary	-1.017663153	-0.41730253	-0.546235355	0.856619185	1
-sub-colornest101	Colornest	Colornest	ses-1	1	10.97808219	Male	Asian	not Hispanic or Latino	16.3726778	Right	5th Grade	Complete primary	Complete primary	-0.017997794	-1.51228613	0.200276918	-0.306878505	1
-sub-colornest102	Colornest	Colornest	ses-1	1	12.14520548	Male	Asian	not Hispanic or Latino	16.47489853	Right	5th Grade	Complete primary	Complete primary	-1.209245211	-0.907525313	-0.459891767	0.116716043	3
-sub-colornest103	Colornest	Colornest	ses-1	1	10.51506849	Female	Asian	not Hispanic or Latino	18.06601506	Right	5th Grade	Complete primary	Complete primary	-0.925556393	-0.388286228	-0.593004799	0.54216035	1
-sub-colornest104	Colornest	Colornest	ses-1	1	10.97808219	Male	Asian	not Hispanic or Latino	19.75739381	Right	5th Grade	Complete secondary	Complete primary	1.0393878	0.88384953	0.097743907	1.239519061	10
-sub-colornest105	Colornest	Colornest	ses-1	1	8.780821918	Male	Asian	not Hispanic or Latino	22.08528929	Right	5th Grade	No/incomplete primary	No/incomplete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest106	Colornest	Colornest	ses-1	1	10.99178082	Female	Asian	not Hispanic or Latino	22.29051247	Right	5th Grade	Complete tertiary	Complete tertiary	0.989036105	-0.935014441	-0.756697852	1.269115187	1
-sub-colornest107	Colornest	Colornest	ses-1	1	7.701369863	Male	Asian	not Hispanic or Latino	16.47680769	Right	5th Grade	Complete secondary	Complete tertiary	-1.026259783	0.28977893	-0.542637706	-0.724923781	1
-sub-colornest108	Colornest	Colornest	ses-1	1	10.97808219	Female	Asian	not Hispanic or Latino	17.95918367	Right	5th Grade	Complete primary	Complete secondary	0.065512334	-0.1103406	-0.584010675	-0.495553807	1
-sub-colornest109	Colornest	Colornest	ses-1	1	10.78082192	Female	Asian	not Hispanic or Latino	15.45778835	Right	5th Grade	Complete primary	Complete secondary	0.769207973	-0.635688381	1.360518885	0.218452725	1
-sub-colornest110	Colornest	Colornest	ses-1	1	12.01917808	Male	Asian	not Hispanic or Latino	19.81657201	Right	5th Grade	Complete primary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest111	Colornest	Colornest	ses-1	1	11.32054795	Male	Asian	not Hispanic or Latino	28.06183115	Right	5th Grade	Complete primary	No/incomplete primary	0.640258511	-1.196161158	0.7003502	-0.454859134	1
-sub-colornest112	Colornest	Colornest	ses-1	1	9.816438356	Female	Asian	not Hispanic or Latino	16.74197384	Right	5th Grade	Complete primary	Complete primary	-1.042224955	-0.982356829	0.516870075	0.553258897	1
-sub-colornest113	Colornest	Colornest	ses-1	1	15.7890411	Female	Asian	not Hispanic or Latino	32.4704834	Right	5th Grade	No/incomplete primary	Complete primary	-0.187474231	-1.416074182	-0.369950529	-1.248405253	1
-sub-colornest114	Colornest	Colornest	ses-1	1	6.660273973	Male	Asian	not Hispanic or Latino	16.42857143	Right	5th Grade	Complete primary	Complete secondary	0.581310185	-1.880335011	-0.450897643	-0.408615187	3
-sub-colornest115	Colornest	Colornest	ses-1	1	15.24931507	Female	Asian	not Hispanic or Latino	17.89158951	Right	5th Grade	Complete primary	Complete primary	0.553064112	-1.034280737	1.499028391	1.546578865	1
-sub-colornest116	Colornest	Colornest	ses-1	1	15.20273973	Female	Asian	not Hispanic or Latino	14.13962883	Right	5th Grade	Complete tertiary	Complete tertiary	-0.550988907	-0.686085115	0.117530979	0.980552961	1
-sub-colornest117	Colornest	Colornest	ses-1	1	15.46849315	Female	Asian	not Hispanic or Latino	16.10725309	Right	5th Grade	Complete primary	Complete primary	0.968158573	-1.745943718	-0.790875522	0.061223308	1
-sub-colornest118	Colornest	Colornest	ses-1	1	10.86575342	Female	Asian	not Hispanic or Latino	24.71403145	Right	5th Grade	Complete primary	Complete primary	-0.197298952	-0.186699289	-0.193665703	2.079309127	1
-sub-colornest119	Colornest	Colornest	ses-1	1	11.57534247	Male	Asian	not Hispanic or Latino	13.2574148	Right	5th Grade	Complete secondary	Complete secondary	-1.370125017	-0.058416692	-0.395134076	-0.543647511	1
-sub-colornest120	Colornest	Colornest	ses-1	1	15.15342466	Female	Asian	not Hispanic or Latino	16.16077363	Right	5th Grade	Complete primary	Complete primary	1.022194538	-1.283210063	0.569035993	0.020528635	1
-sub-colornest121	Colornest	Colornest	ses-1	1	9.336986301	Male	Asian	not Hispanic or Latino	15.05911053	Right		Complete primary	Complete primary	-0.370459659	-0.48602535	-1.317931175	-1.124471477	1
-sub-colornest122	Colornest	Colornest	ses-1	1	8.589041096	Male	Asian	not Hispanic or Latino	15.79881657	Right		Complete primary	No/incomplete primary	-1.044681135	-0.403557966	-0.533643582	0.71418783	1
-sub-colornest123	Colornest	Colornest	ses-1	1	8.852054795	Male	Asian	not Hispanic or Latino	14.01202802	Right		Complete tertiary	Complete tertiary	-0.967311458	-0.446318832	0.459307683	-0.758219422	1
-sub-colornest124	Colornest	Colornest	ses-1	1	11.29863014	Female	Asian	not Hispanic or Latino	15.08978422	Right		Complete secondary	Complete secondary	-1.60223405	-0.734954676	-0.315985787	-0.434511797	1
-sub-colornest125	Colornest	Colornest	ses-1	1	17.34246575	Female	Asian	not Hispanic or Latino	19.11111111	Right		Complete tertiary	Complete tertiary	-1.271877808	-0.113394948	-0.432909396	0.769680566	1
-sub-colornest126	Colornest	Colornest	ses-1	1	10.62191781	Male	Asian	not Hispanic or Latino	18.82798072	Right		Complete tertiary	Complete tertiary	-0.390109101	-0.472280786	2.01708992	0.040875971	1
-sub-colornest127	Colornest	Colornest	ses-1	1	11.11780822	Male	Asian	not Hispanic or Latino	18.76163171	Right				-0.032734876	-0.46159057	-0.483276489	0.076021371	1
-sub-colornest128	Colornest	Colornest	ses-1	1	11.29863014	Male	Asian	not Hispanic or Latino	19.24444444	Right				-0.165368609	-1.428291572	-0.387938777	-0.27728238	1
-sub-colornest129	Colornest	Colornest	ses-1	1	9.42739726	Female	Asian	not Hispanic or Latino	17.578125	Right	8th Grade	Complete primary	Complete primary	-0.440460796	1.270224497	-0.220648075	-0.637985161	1
-sub-colornest130	Colornest	Colornest	ses-1	1	11.09315068	Male	Asian	not Hispanic or Latino	17.578125	Right	8th Grade			0.215339329	-1.170199203	-0.648768366	-0.637985161	2
-sub-colornest131	Colornest	Colornest	ses-1	1	13.64931507	Male	Asian	not Hispanic or Latino	18.30636116	Right	8th Grade	Complete primary	Complete primary	-0.735202425	-1.127438338	0.302809929	1.448541699	1
-sub-colornest132	Colornest	Colornest	ses-1	1	11.25205479	Male	Asian	not Hispanic or Latino	18.53221565	Right	8th Grade	Complete primary	Complete primary	-0.823624913	-1.084677472	0.344182898	0.701239525	1
-sub-colornest133	Colornest	Colornest	ses-1	1	14.14246575	Male	Asian	not Hispanic or Latino	21.74471993	Right	9th Grade	Complete secondary	Complete primary	-1.074155298	-0.111867774	-0.519252984	0.582855023	1
-sub-colornest134	Colornest	Colornest	ses-1	1	17.64109589	Female	Asian	not Hispanic or Latino	24.84447938	Right	9th Grade	Complete primary	Complete primary	-1.028715964	-0.786878585	0.506077126	0.540310592	2
-sub-colornest135	Colornest	Colornest	ses-1	1	7.701369863	Female	Asian	not Hispanic or Latino	21.8458628	Right	9th Grade	Complete primary	Complete secondary	-0.930468754	-1.034280737	-0.591205974	1.862887458	1
-sub-colornest136	Colornest	Colornest	ses-1	1	11.02739726	Male	Asian	not Hispanic or Latino	17.291453	Left	9th Grade	Complete primary	Complete primary					1
-sub-colornest137	Colornest	Colornest	ses-1	1	8.38630137	Male	Asian	not Hispanic or Latino	18.4389348	Right	9th Grade	Complete primary	Complete primary	-0.000804532	-0.776188368	1.892971012	1.130383348	11
-sub-colornest138	Colornest	Colornest	ses-1	1	16.32328767	Female	Asian	not Hispanic or Latino	24.54137542	Right	9th Grade	Complete secondary	Complete secondary	-1.281702528	-0.275275368	-0.429311746	0.778929355	1
-sub-colornest139	Colornest	Colornest	ses-1	1	7.775342466	Male	Asian	not Hispanic or Latino	24.30914256	Right	9th Grade	Complete primary	Complete secondary	-1.233807014	-0.896835097	-0.449098819	0.11116677	1
-sub-colornest140	Colornest	Colornest	ses-1	1	14.53972603	Female	Asian	not Hispanic or Latino	19.3001248	Right	11th Grade	Complete tertiary	Complete secondary	-0.060980948	-0.852547057	-0.859230863	-0.171846182	4
-sub-colornest141	Colornest	Colornest	ses-1	1	8.002739726	Female	Asian	not Hispanic or Latino	19.31054971	Right	11th Grade	Complete primary	Complete secondary	-0.7880103	-0.547112301	-0.666756614	1.491086129	1
-sub-colornest142	Colornest	Colornest	ses-1	1	7.079452055	Male	Asian	not Hispanic or Latino	15.93302728	Right	11th Grade	No/incomplete primary	No/incomplete primary	-0.634499035	-0.637215554	0.221862815	1.624268695	1
-sub-colornest143	Colornest	Colornest	ses-1	1	8.197260274	Female	Asian	not Hispanic or Latino	17.9396462	Right	11th Grade	Complete secondary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest144	Colornest	Colornest	ses-1	1	13.84657534	Female	Asian	not Hispanic or Latino	18.43926204	Right	11th Grade	Complete tertiary	Complete primary	-1.209245211	-0.907525313	-0.459891767	0.116716043	3
-sub-colornest145	Colornest	Colornest	ses-1	1	12.77260274	Female	Asian	not Hispanic or Latino	16.65282228	Right	9th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest146	Colornest	Colornest	ses-1	1	9.657534247	Male	Asian	not Hispanic or Latino	18.88162672	Right	9th Grade	Complete primary	Complete primary	-0.833449634	-0.366905795	-0.636176593	-0.166296908	2
-sub-colornest147	Colornest	Colornest	ses-1	1	10.2739726	Male	Asian	not Hispanic or Latino	22.39885094	Left	9th Grade	Complete secondary	Complete secondary	-0.715552983	-0.258476457	-0.708129583	0.616150664	1
-sub-colornest148	Colornest	Colornest	ses-1	1	13.4739726	Female	Asian	not Hispanic or Latino	19.82948189	Right	11th Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
-sub-colornest149	Colornest	Colornest	ses-1	1	16.77260274	Female	Asian	not Hispanic or Latino	24.53155819	Right	11th Grade	Complete primary	Complete primary	-1.203104761	-0.910579661	-0.461690592	0.858468943	1
-sub-colornest150	Colornest	Colornest	ses-1	1	9.616438356	Male	Asian	not Hispanic or Latino	18.90543227	Right	11th Grade	Complete primary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest151	Colornest	Colornest	ses-1	1	14.19178082	Male	Asian	not Hispanic or Latino	21.7578125	Right	9th Grade	Complete primary	No/incomplete primary	-1.044681135	-0.403557966	-0.533643582	0.71418783	1
-sub-colornest152	Colornest	Colornest	ses-1	1	10.64109589	Male	Asian	not Hispanic or Latino	20.57439984	Right	11th Grade	Complete primary	Complete primary	-1.117138452	-0.948759005	2.373257222	0.623549696	2
-sub-colornest153	Colornest	Colornest	ses-1	1	7.624657534	Female	Asian	not Hispanic or Latino	24.03460984	Right	11th Grade	Complete primary	Complete primary	-1.071699118	-0.388286228	-0.521051809	-0.042363132	1
-sub-colornest154	Colornest	Colornest	ses-1	1	8.679452055	Male	Asian	not Hispanic or Latino	18.71075227	Right	11th Grade	No/incomplete primary		1.047984431	-0.93043292	-0.861029687	0.000181299	1
-sub-colornest155	Colornest	Colornest	ses-1	1	9.81369863	Male	Asian	not Hispanic or Latino	20.85800436	Right	9th Grade	Complete primary	Complete primary	-0.349582127	-0.808259018	-0.29439989	1.400447995	1
-sub-colornest156	Colornest	Colornest	ses-1	1	12.05753425	Female	Asian	not Hispanic or Latino	19.64620187	Right	9th Grade	Complete primary	Complete tertiary	-0.366775388	-0.797568801	-0.040765599	2.208792177	1
-sub-colornest157	Colornest	Colornest	ses-1	1	6.805479452	Male	Asian	not Hispanic or Latino	19.50413223	Right	9th Grade	Complete primary	Complete primary	-1.281702528	-0.275275368	-0.429311746	0.778929355	1
-sub-colornest158	Colornest	Colornest	ses-1	1	16.96438356	Female	Asian	not Hispanic or Latino	23.0802729	Right	12th Grade	Complete primary	Complete primary	-1.211701392	0.315740884	-0.458092942	-0.625036856	1
-sub-colornest159	Colornest	Colornest	ses-1	1	16.63561644	Female	Asian	not Hispanic or Latino	19.61656805	Right	9th Grade	Complete primary	Complete primary	-0.951346286	-1.025117694	0.466502982	0.804825965	1
-sub-colornest160	Colornest	Colornest	ses-1	1	17.46849315	Female	Asian	not Hispanic or Latino	28.87544005	Right	12th Grade	Complete secondary	Complete secondary	0.205514608	-0.687612289	-1.620133734	-0.112653931	1
-sub-colornest161	Colornest	Colornest	ses-1	1	17.03561644	Female	Asian	not Hispanic or Latino			12th Grade			1.100792306	-1.072460082	-0.384341127	-0.493704049	1
-sub-colornest162	Colornest	Colornest	ses-1	1	17.21917808	Female	Asian	not Hispanic or Latino	22.2696887	Right	11th Grade	No/incomplete primary	No/incomplete primary	1.03693162	-1.245030719	1.7976333	-0.767468211	1
-sub-colornest163	Colornest	Colornest	ses-1	1	17.90684932	Male	Asian	not Hispanic or Latino	19.84714004	Right	12th Grade	Complete primary	Complete primary	-1.249772185	-0.198916679	-0.44190352	-0.60468952	1
-sub-colornest164	Colornest	Colornest	ses-1	1	16.56438356	Female	Asian	not Hispanic or Latino	26.15211615	Right	8th Grade	No/incomplete primary	Complete primary	0.468325894	-0.020237347	-1.046308637	-0.761918938	1
-sub-colornest165	Colornest	Colornest	ses-1	1	17.29863014	Female	Asian	not Hispanic or Latino	22.62568728	Right	12th Grade	Complete primary	Complete tertiary	0.83306866	-1.089258993	-0.672153088	0.51626374	2
-sub-colornest166	Colornest	Colornest	ses-1	1	16.56712329	Female	Asian	not Hispanic or Latino	20.21250997	Right	8th Grade	Complete primary	Complete primary	1.216232777	-1.278628542	-0.492270613	1.135932621	1
-sub-colornest167	Colornest	Colornest	ses-1	1	16.98630137	Female	Asian	not Hispanic or Latino	20.17587114	Right	8th Grade	Complete primary	Complete primary					1
-sub-colornest168	Colornest	Colornest	ses-1	1	17.61917808	Female	Asian	not Hispanic or Latino	14.84591413	Right	8th Grade	Complete primary	Complete primary	-0.27958099	-1.365677447	-0.706330758	-1.185513486	1
-sub-colornest169	Colornest	Colornest	ses-1	1	12.91232877	Male	Asian	not Hispanic or Latino	20.13399993	Right	8th Grade	Complete primary	Complete primary	-0.69221927	-0.015655826	-0.720721357	1.670512641	1
-sub-colornest170	Colornest	Colornest	ses-1	1	16.28493151	Female	Asian	not Hispanic or Latino	18.62531505	Right	8th Grade	Complete secondary	Complete secondary					1
-sub-colornest171	Colornest	Colornest	ses-1	1	14.6739726	Male	Asian	not Hispanic or Latino	21.20710059	Right	12th Grade	Complete secondary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest172	Colornest	Colornest	ses-1	1	13.46575342	Male	Asian	not Hispanic or Latino	18.25631871	Left	12th Grade	Complete secondary	Complete tertiary					1
-sub-colornest173	Colornest	Colornest	ses-1	1	15.8739726	Female	Asian	not Hispanic or Latino	17.00680272	Right	12th Grade	Complete primary	Complete primary	-1.475740768	-0.797568801	-0.357358756	0.962055383	1
-sub-colornest174	Colornest	Colornest	ses-1	1	14.35616438	Male	Asian	not Hispanic or Latino	20.57433449	Right	12th Grade	Complete primary	Complete primary	0.73482145	0.072920253	-1.42945831	-0.168146666	1
-sub-colornest175	Colornest	Colornest	ses-1	1	13.52328767	Female	Asian	not Hispanic or Latino	19.48696145	Right	12th Grade	Complete primary	Complete primary					2
-sub-colornest176	Colornest	Colornest	ses-1	1	14.6739726	Male	Asian	not Hispanic or Latino	19.96579417	Right	12th Grade	Complete primary	Complete primary	-0.490812491	-1.252666588	-0.774686099	0.031627182	2
-sub-colornest177	Colornest	Colornest	ses-1	1	13.2	Female	Asian	not Hispanic or Latino	19.42112989	Right	12th Grade	Complete primary	Complete primary	-1.281702528	-0.275275368	-0.429311746	0.778929355	1
-sub-colornest178	Colornest	Colornest	ses-1	1	15.83561644	Male	Asian	not Hispanic or Latino	18.7961895	Right	12th Grade	Complete secondary	Complete secondary	-0.216948394	0.094300686	-1.400677114	-0.031264585	1
-sub-colornest179	Colornest	Colornest	ses-1	1	15.61643836	Male	Asian	not Hispanic or Latino	17.94181725	Right	12th Grade	Complete primary	Complete primary	-0.799063111	-1.096894862	0.061767412	0.323888923	2
-sub-colornest180	Colornest	Colornest	ses-1	1	14.35616438	Male	Asian	not Hispanic or Latino	22.33227531	Right	12th Grade	Complete secondary	Complete primary	-0.17642142	-0.776188368	-0.997740369	-0.826660463	1
-sub-colornest181	Colornest	Colornest	ses-1	1	14.84657534	Male	Asian	not Hispanic or Latino	18.06972789	Right	12th Grade	Complete primary	Complete primary	-0.366775388	-0.000384088	2.984857638	1.413396299	1
-sub-colornest182	Colornest	Colornest	ses-1	1	13.87671233	Female	Asian	not Hispanic or Latino		Right	12th Grade	Complete primary	Complete primary	0.702891107	1.155686463	-1.402475939	-0.982040122	2
-sub-colornest183	Colornest	Colornest	ses-1	1	13.49041096	Female	Asian	not Hispanic or Latino	21.80059124	Right	12th Grade			-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
-sub-colornest184	Colornest	Colornest	ses-1	1	16.02739726	Male	Asian	not Hispanic or Latino	25.77777778	Right	12th Grade	Complete primary	Complete primary					2
-sub-colornest185	Colornest	Colornest	ses-1	1	16.44657534	Female	Asian	not Hispanic or Latino	23.03004535	Right	12th Grade	Complete secondary	Complete secondary					2
-sub-colornest186	Colornest	Colornest	ses-1	1	14.31232877	Female	Asian	not Hispanic or Latino	17.10291493		9th Grade	Complete primary	Complete primary					1
-sub-colornest187	Colornest	Colornest	ses-1	1	13.65479452	Female	Asian	not Hispanic or Latino	19.38214469	Right	9th Grade	Complete primary	Complete primary	-0.300458522	0.692952808	1.91095926	0.756732261	1
-sub-colornest188	Colornest	Colornest	ses-1	1	17.49589041	Male	Asian	not Hispanic or Latino	21.19181907	Right	8th Grade	Complete primary	No/incomplete primary	-1.044681135	-0.403557966	-0.533643582	0.71418783	1
-sub-colornest189	Colornest	Colornest	ses-1	1	16.68219178	Male	Asian	not Hispanic or Latino	20.51508648	Right	9th Grade	Complete primary	Complete secondary					3
-sub-colornest190	Colornest	Colornest	ses-1	1	16.02739726	Male	Asian	not Hispanic or Latino	20.47826661	Right	11th Grade	Complete primary	Complete primary	-0.458882148	-1.269465499	0.03838269	2.279082975	2
-sub-colornest191	Colornest	Colornest	ses-1	1	16.58082192	Male	Asian	not Hispanic or Latino		Right	11th Grade			-0.609937232	-1.190052463	-0.085736218	0.532911561	1
-sub-colornest192	Colornest	Colornest	ses-1	1	16.83561644	Female	Asian	not Hispanic or Latino	21.1552942	Right	11th Grade	Complete primary	Complete tertiary	0.522361859	0.057648516	-0.289003415	-0.362371241	2
-sub-colornest193	Colornest	Colornest	ses-1	1	14.35616438	Male	Asian	not Hispanic or Latino	17.61043947	Right	9th Grade	Complete primary	Complete secondary					2
-sub-colornest194	Colornest	Colornest	ses-1	1	14.35616438	Male	Asian	not Hispanic or Latino	17.36111111	Right	9th Grade	Complete primary	Complete secondary	1.285005824	1.164849506	-0.557028304	-1.355691209	2
-sub-colornest195	Colornest	Colornest	ses-1	1	13.49041096	Female	Asian	not Hispanic or Latino	17.42509213	Right	8th Grade	Complete primary	Complete secondary					2
+participant_id	study	study_site	wave	age	sex	race	ethnicity	bmi	handedness	participant_education	parent_1_education	parent_2_education	p_factor_mcelroy_harmonized_all_samples	internalizing_mcelroy_harmonized_all_samples	externalizing_mcelroy_harmonized_all_samples	attention_mcelroy_harmonized_all_samples	cubids_acquisition_group
+colornest001	Colornest	Colornest	1	13.56438356	Female	Asian	not Hispanic or Latino	19.48031546	Right	6th Grade	Complete secondary	Complete secondary	-0.436776525	-0.244731893	-1.283753505	-1.081927046	1
+colornest002	Colornest	Colornest	1	15.51232877	Female	Asian	not Hispanic or Latino	17.62966944	Right	6th Grade	Complete primary	Complete primary	0.255866303	-1.196161158	-1.044509812	-1.572112878	1
+colornest003	Colornest	Colornest	1	11.38356164	Female	Asian	not Hispanic or Latino	25.06059557	Right	6th Grade	Complete tertiary	Complete tertiary	-0.18378996	1.021295171	1.61235435	-0.258784801	1
+colornest004	Colornest	Colornest	1	9.093150685	Female	Asian	not Hispanic or Latino	16.15067796	Right	6th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest005	Colornest	Colornest	1	6.526027397	Male	Asian	not Hispanic or Latino	24.6059208	Right	6th Grade	Complete primary	Complete primary	-0.000804532	1.355746228	-0.580413026	1.933178257	1
+colornest006	Colornest	Colornest	1	8.77260274	Male	Asian	not Hispanic or Latino	20.83862209	Right	6th Grade	Complete primary	Complete primary	0.581310185	-1.880335011	-0.450897643	-0.408615187	2
+colornest007	Colornest	Colornest	1	11.22739726	Male	Asian	not Hispanic or Latino	15.24676299	Right	6th Grade	Complete primary	Complete primary	-1.211701392	0.315740884	-0.458092942	-0.625036856	1
+colornest008	Colornest	Colornest	1	10.54520548	Male	Asian	not Hispanic or Latino	17.21729126	Right	6th Grade	Complete primary	Complete primary					1
+colornest009	Colornest	Colornest	1	11.70684932	Male	Asian	not Hispanic or Latino	21.01199169	Right	6th Grade	No/incomplete primary	No/incomplete primary	0.079021325	-0.597509036	0.074359185	-1.041232374	1
+colornest010	Colornest	Colornest	1	8.301369863	Female	Asian	not Hispanic or Latino	22.9760666	Right	6th Grade	Complete primary	Complete primary	0.619380979	-1.445090484	-0.485075314	-0.773017485	1
+colornest011	Colornest	Colornest	1	11.3260274	Male	Asian	not Hispanic or Latino	17.9092045	Right	6th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	2
+colornest012	Colornest	Colornest	1	12.88767123	Female	Asian	not Hispanic or Latino	20.50071729	Right	6th Grade	No/incomplete primary	No/incomplete primary	-0.562041718	0.079028948	-0.799869646	1.302410828	3
+colornest013	Colornest	Colornest	1	9.030136986	Male	Asian	not Hispanic or Latino	19.3877551	Right	4th Grade	Complete primary	Complete primary	-1.130647444	0.26534415	-0.494069437	0.636498001	2
+colornest014	Colornest	Colornest	1	10.77534247	Female	Asian	not Hispanic or Latino	19.53977385	Right	4th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest015	Colornest	Colornest	1	11.47945205	Female	Asian	not Hispanic or Latino	30.26183062	Right	4th Grade	No/incomplete primary	Complete secondary	-0.123613545	-1.452726353	-0.814260244	-0.206991581	1
+colornest016	Colornest	Colornest	1	7.660273973	Female	Asian	not Hispanic or Latino	19.56085872	Right	4th Grade	Complete primary	Complete primary	-0.676254099	-0.026346042	1.011546882	0.207354178	1
+colornest017	Colornest	Colornest	1	7.619178082	Female	Asian	not Hispanic or Latino	23.64066194	Right	4th Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
+colornest018	Colornest	Colornest	1	7.139726027	Female	Asian	not Hispanic or Latino	21.68553689	Right	4th Grade	Complete primary	Complete primary	-0.051156227	-0.198916679	-1.091279256	0.090819433	1
+colornest019	Colornest	Colornest	1	10.95342466	Female	Asian	not Hispanic or Latino	23.39051014	Right	4th Grade	Complete primary	Complete primary	-0.909591222	-0.478389481	0.414337064	0.427475363	1
+colornest020	Colornest	Colornest	1	12.59452055	Female	Asian	not Hispanic or Latino	14.1723054	Right	4th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest021	Colornest	Colornest	1	8.315068493	Male	Asian	not Hispanic or Latino	18.28402367	Right	4th Grade	Complete primary	Complete primary	0.856402372	0.347811534	-0.663158964	0.148161927	1
+colornest022	Colornest	Colornest	1	9.21369863	Male	Asian	not Hispanic or Latino	20.01911373	Right	4th Grade		Complete tertiary	0.02375727	-0.501297088	0.336987599	0.031627182	1
+colornest023	Colornest	Colornest	1	11.19726027	Female	Asian	not Hispanic or Latino	25.0821417	Right	4th Grade	Complete tertiary	Complete tertiary	-0.142034896	-1.442036136	0.423331188	1.237669303	8
+colornest024	Colornest	Colornest	1	6.632876712	Male	Asian	not Hispanic or Latino	21.53880943	Right	4th Grade	Complete primary	Complete secondary	0.209198878	-1.165617682	-0.321382261	-1.194762276	1
+colornest025	Colornest	Colornest	1	11.15890411	Male	Asian	not Hispanic or Latino	17.49271137	Right	4th Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
+colornest026	Colornest	Colornest	1	10.14246575	Male	Asian	not Hispanic or Latino	16.0229381	Right	4th Grade	Complete primary	Complete primary	-1.174858688	-0.922797051	-0.474282365	0.982402719	1
+colornest027	Colornest	Colornest	1	9.145205479	Female	Asian	not Hispanic or Latino	27.34375	Right	6th Grade	No/incomplete primary	Complete primary	-0.633270945	-1.179362246	0.187685145	1.624268695	1
+colornest028	Colornest	Colornest	1	12.8	Female	Asian	not Hispanic or Latino	13.79243827	Right	6th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest029	Colornest	Colornest	1	6.961643836	Female	Asian	not Hispanic or Latino	18.65340887	Right	6th Grade	Complete primary	Complete primary	-0.757308047	-0.412721009	0.48089358	0.28319425	1
+colornest030	Colornest	Colornest	1	7.591780822	Female	Asian	not Hispanic or Latino	15.625	Right	6th Grade	Complete primary	Complete primary	-0.909591222	-0.478389481	0.414337064	0.427475363	1
+colornest031	Colornest	Colornest	1	10.86575342	Male	Asian	not Hispanic or Latino	23.17824637	Left	4th Grade	Complete tertiary	Complete tertiary					1
+colornest032	Colornest	Colornest	1	9.863013699	Male	Asian	not Hispanic or Latino	17.67676768	Right	4th Grade	Complete primary	Complete primary	1.192899065	-0.927378572	2.700643327	-2.189932001	1
+colornest033	Colornest	Colornest	1	17.15342466	Female	Asian	not Hispanic or Latino	17.66803841	Right	4th Grade	Complete primary	Complete primary	-0.056068588	-0.993047045	-0.630780119	1.172927778	2
+colornest034	Colornest	Colornest	1	13.21369863	Male	Asian	not Hispanic or Latino	14.9937526	Right	1st Grade	Complete primary	Complete primary	0.4302551	0.543289778	-1.181220494	-0.841458525	1
+colornest035	Colornest	Colornest	1	8.331506849	Female	Asian	not Hispanic or Latino	17.31474148	Right	1st Grade	Complete secondary	Complete secondary	-0.600112511	0.468458262	0.160702773	0.135213622	9
+colornest036	Colornest	Colornest	1	16.03835616	Female	Asian	not Hispanic or Latino	14.29752066	Right	1st Grade	Complete tertiary	Complete secondary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
+colornest037	Colornest	Colornest	1	11.50410959	Male	Asian	not Hispanic or Latino	18.26388889	Right	1st Grade	Complete primary	Complete primary	-0.578006889	-0.670813377	-1.218995814	-0.991288912	1
+colornest038	Colornest	Colornest	1	11.50410959	Male	Asian	not Hispanic or Latino	17.13249127	Right	1st Grade	Complete primary	Complete primary	-0.352038307	0.07139308	0.112134505	-0.099705626	1
+colornest039	Colornest	Colornest	1	13.98356164	Female	Asian	not Hispanic or Latino	18.19325495	Right	1st Grade	Complete primary	Complete primary	-1.465916047	-0.754807935	-0.360956406	0.952806594	1
+colornest040	Colornest	Colornest	1	7.720547945	Male	Asian	not Hispanic or Latino	16.61603323	Right	1st Grade	Complete primary	Complete tertiary	-0.037647236	-0.866291621	-1.451044207	-1.353841451	1
+colornest041	Colornest	Colornest	1	7.64109589	Male	Asian	not Hispanic or Latino	14.68635775	Right	1st Grade	Complete tertiary	Complete tertiary	-0.151859617	-0.234041676	-0.235038673	-0.181094971	4
+colornest042	Colornest	Colornest	1	13.16164384	Female	Asian	not Hispanic or Latino	17.344	Right	1st Grade	Complete secondary	Complete tertiary	-1.174858688	-0.922797051	-0.474282365	0.982402719	1
+colornest043	Colornest	Colornest	1	16.55342466	Female	Asian	not Hispanic or Latino	14.42428823	Right	1st Grade	Complete secondary	Complete secondary	1.160968722	0.213420241	0.486290054	-1.246555496	1
+colornest044	Colornest	Colornest	1	9.353424658	Male	Asian	not Hispanic or Latino	15.99333611	Right	2nd Grade	Complete tertiary	Complete tertiary	-1.211701392	0.315740884	-0.458092942	-0.625036856	1
+colornest045	Colornest	Colornest	1	13.07123288	Female	Asian	not Hispanic or Latino	15.616	Right	2nd Grade	Complete primary	Complete primary	0.163759544	-0.600563384	2.45600316	-0.588041699	1
+colornest046	Colornest	Colornest	1	12.39452055	Male	Asian	not Hispanic or Latino	16.39436938	Right	2nd Grade	Complete primary	Complete primary	-0.169052879	-0.62347099	0.448514734	-0.273582864	1
+colornest047	Colornest	Colornest	1	16.34520548	Male	Asian	not Hispanic or Latino	14.48559671	Right	2nd Grade	Complete tertiary	Complete secondary	-0.603796782	-0.654014466	0.752516118	-0.974641091	1
+colornest048	Colornest	Colornest	1	16.34520548	Male	Asian	not Hispanic or Latino	15.82291798	Right	2nd Grade	Complete tertiary	Complete tertiary	-1.042224955	-0.243204719	-0.535442407	-0.042363132	1
+colornest049	Colornest	Colornest	1	11.40547945	Female	Asian	not Hispanic or Latino	15.5200215	Right	2nd Grade	Complete primary	Complete primary	-0.705728262	-1.142710075	2.015291096	1.422645089	1
+colornest050	Colornest	Colornest	1	12.07945205	Female	Asian	not Hispanic or Latino	19.264	Right	2nd Grade	Complete secondary	Complete secondary	0.977983294	-1.353460057	0.189483969	-1.36309024	1
+colornest051	Colornest	Colornest	1	8.915068493	Female	Asian	not Hispanic or Latino	13.03204787	Right	2nd Grade	Complete secondary	Complete secondary	-0.839590085	-0.518095999	-0.637975418	-0.160747635	1
+colornest052	Colornest	Colornest	1	10.89863014	Male	Asian	not Hispanic or Latino	16.64	Right	2nd Grade	Complete primary	No/incomplete primary	-0.309055153	1.174012549	0.471899456	-0.034964101	6
+colornest053	Colornest	Colornest	1	16.17260274	Female	Asian	not Hispanic or Latino	15.43261933	Right	2nd Grade	Complete tertiary	Complete tertiary	-1.114682272	-0.513514478	-0.501264736	-0.676830076	1
+colornest054	Colornest	Colornest	1	9.701369863	Female	Asian	not Hispanic or Latino	15.01464844	Left	2nd Grade	Complete primary	Complete primary	-1.370125017	-0.058416692	-0.395134076	-0.543647511	1
+colornest055	Colornest	Colornest	1	10.85479452	Female	Asian	not Hispanic or Latino	20.82869236	Right	2nd Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest056	Colornest	Colornest	1	7.509589041	Male	Asian	not Hispanic or Latino	14.13265306	Right	2nd Grade	Complete primary	Complete primary	0.895701256	0.149278942	0.286620506	1.32645768	1
+colornest057	Colornest	Colornest	1	15.78082192	Female	Asian	not Hispanic or Latino	21.56051512	Right	2nd Grade	Complete secondary	Complete tertiary	-0.438004615	-0.910579661	0.189483969	0.397879237	1
+colornest058	Colornest	Colornest	1	7.509589041	Male	Asian	not Hispanic or Latino	14.51749327	Right	2nd Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest059	Colornest	Colornest	1	9.649315068	Female	Asian	not Hispanic or Latino	14.90735081	Right	2nd Grade	Complete primary	Complete primary	-1.475740768	-0.797568801	-0.357358756	0.962055383	1
+colornest060	Colornest	Colornest	1	7.306849315	Female	Asian	not Hispanic or Latino	14.81398975	Right	2nd Grade	Complete secondary	Complete tertiary					1
+colornest061	Colornest	Colornest	1	8.17260274	Female	Asian	not Hispanic or Latino	16.45090169	Right	2nd Grade	Complete primary	Complete primary	0.297621367	0.243963717	-0.110919765	-0.184794487	1
+colornest062	Colornest	Colornest	1	13.54794521	Female	Asian	not Hispanic or Latino	14.43555363	Right	2nd Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
+colornest063	Colornest	Colornest	1	11.94794521	Male	Asian	not Hispanic or Latino	20.91952683	Right	2nd Grade	Complete primary	Complete primary	-0.273440539	-0.354688405	0.03838269	1.061942307	5
+colornest064	Colornest	Colornest	1	10.54520548	Female	Asian	not Hispanic or Latino	23.76787289	Right	2nd Grade	Complete primary	Complete secondary	0.080249416	0.772365845	0.059968587	1.067491581	1
+colornest065	Colornest	Colornest	1	11.40821918	Male	Asian	not Hispanic or Latino	20.37387104	Right	2nd Grade	Complete primary	Complete primary	-1.113454182	-0.365378621	0.579828941	-0.676830076	1
+colornest066	Colornest	Colornest	1	9.465753425	Male	Asian	not Hispanic or Latino	14.94202988	Right	2nd Grade	Complete primary	Complete primary	0.277971925	-1.689438289	-0.704531934	-0.169996424	1
+colornest067	Colornest	Colornest	1	10.14520548	Female	Asian	not Hispanic or Latino	15.26717557	Right	2nd Grade	Complete secondary	Complete tertiary	-1.042224955	-0.982356829	0.516870075	0.553258897	1
+colornest068	Colornest	Colornest	1	9.271232877	Female	Asian	not Hispanic or Latino	17.68908666	Right	2nd Grade	Complete secondary	Complete primary	-0.709412532	-0.003438436	-0.711727233	1.122984316	1
+colornest069	Colornest	Colornest	1	11.3260274	Male	Asian	not Hispanic or Latino	14.43808533	Right	2nd Grade	Complete primary	Complete primary	-0.364319208	-0.65554164	-0.044363249	2.206942419	2
+colornest070	Colornest	Colornest	1	14.31506849	Male	Asian	not Hispanic or Latino	15.03738305	Right	2nd Grade	Complete primary	Complete primary					1
+colornest071	Colornest	Colornest	1	8.931506849	Male	Asian	not Hispanic or Latino	16.55234328	Right	2nd Grade	Complete primary	Complete tertiary	0.555520292	-0.365378621	-0.323181086	-0.961692786	1
+colornest072	Colornest	Colornest	1	11.41917808	Female	Asian	not Hispanic or Latino	13.03204787	Right	2nd Grade	Complete primary	Complete secondary	1.238338399	0.731132152	-0.067747971	-2.232476432	1
+colornest073	Colornest	Colornest	1	7.619178082	Female	Asian	not Hispanic or Latino	16.21972318	Right	3rd Grade	Complete secondary	Complete secondary	0.437623641	-0.058416692	-1.017527441	-0.73417257	7
+colornest074	Colornest	Colornest	1	11.92054795	Male	Asian	not Hispanic or Latino	16.64370983	Right	3rd Grade	Complete primary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest075	Colornest	Colornest	1	12.69315068	Female	Asian	not Hispanic or Latino	15.97157998	Right	3rd Grade	Complete primary	Complete tertiary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest076	Colornest	Colornest	1	15.4739726	Female	Asian	not Hispanic or Latino	15.99899219	Right	3rd Grade	Complete primary	Complete primary	0.476922525	-1.219068764	0.169696897	0.771530324	1
+colornest077	Colornest	Colornest	1	7.224657534	Male	Asian	not Hispanic or Latino	15.66393734	Right	3rd Grade	Complete primary	Complete primary	0.250953942	-0.093541689	-0.88081676	-0.14779933	1
+colornest078	Colornest	Colornest	1	16.73972603	Female	Asian	not Hispanic or Latino	14.23416449	Right	3rd Grade	Complete tertiary	Complete tertiary	-0.598884421	-0.508932957	-0.776484924	2.390068447	1
+colornest079	Colornest	Colornest	1	16.41369863	Male	Asian	not Hispanic or Latino	17.58012983	Left	3rd Grade	Complete primary	Complete secondary	0.086389866	0.115681119	-0.749502553	0.76598105	1
+colornest080	Colornest	Colornest	1	9.331506849	Female	Asian	not Hispanic or Latino	20.23408054	Right	3rd Grade	Complete tertiary	Complete secondary	-0.601340602	-1.194633984	1.205819956	0.233250788	1
+colornest081	Colornest	Colornest	1	10.30410959	Male	Asian	not Hispanic or Latino	18.44757044		3rd Grade	Complete tertiary	Complete tertiary	1.120441748	0.824289753	-0.923988554	0.31833965	1
+colornest082	Colornest	Colornest	1	7.482191781	Female	Asian	not Hispanic or Latino	14.80716253	Right	3rd Grade	Complete primary	Complete primary	-0.440460796	-0.753280762	-0.808863769	-1.078227531	1
+colornest083	Colornest	Colornest	1	10.23835616	Male	Asian	not Hispanic or Latino	16.23822921	Right	3rd Grade	Complete primary	Complete primary	1.310795717	-1.23739485	-0.580413026	1.084139401	1
+colornest084	Colornest	Colornest	1	13.4109589	Female	Asian	not Hispanic or Latino	26.72757824	Right	3rd Grade	Complete secondary	Complete tertiary	-1.174858688	-0.922797051	-0.474282365	0.982402719	1
+colornest085	Colornest	Colornest	1	11.46575342	Male	Asian	not Hispanic or Latino	17.17403435	Right	3rd Grade	Complete secondary	Complete secondary					1
+colornest086	Colornest	Colornest	1	14.46027397	Male	Asian	not Hispanic or Latino	15.43015051	Left	3rd Grade	Complete tertiary	Complete tertiary	0.322183169	1.010604954	1.002552759	-0.510351869	1
+colornest087	Colornest	Colornest	1	11.29315068	Male	Asian	not Hispanic or Latino	14.336	Right	3rd Grade	Complete tertiary	Complete tertiary					1
+colornest088	Colornest	Colornest	1	10.61917808	Female	Asian	not Hispanic or Latino	31.10793683	Right	3rd Grade	Complete primary	Complete primary	-0.046243867	-0.99915574	0.903617397	0.087119918	1
+colornest089	Colornest	Colornest	1	11.32328767	Female	Asian	not Hispanic or Latino	18.46938776	Right	5th Grade	Complete primary	Complete tertiary	-0.494496761	-1.24961224	-1.256771133	-0.617637825	1
+colornest090	Colornest	Colornest	1	11.59726027	Male	Asian	not Hispanic or Latino	24.99890356	Right	5th Grade	Complete primary	Complete primary	0.301305637	-0.698302505	-0.405927024	0.901013374	1
+colornest091	Colornest	Colornest	1	9.309589041	Male	Asian	not Hispanic or Latino	20.26814523	Right	5th Grade	Complete primary	Complete primary	1.095879945	-1.535193737	-0.380743478	0.33498747	1
+colornest092	Colornest	Colornest	1	6.824657534	Female	Asian	not Hispanic or Latino	15.81644019	Right	5th Grade	Complete secondary	Complete secondary	-0.633270945	-1.179362246	0.187685145	1.624268695	1
+colornest093	Colornest	Colornest	1	13.50684932	Male	Asian	not Hispanic or Latino	18.01405515	Right	5th Grade	Complete secondary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest094	Colornest	Colornest	1	8.323287671	Male	Asian	not Hispanic or Latino	18.89698231	Right	5th Grade	Complete primary	Complete primary	-0.436776525	-0.754807935	1.623147299	2.262435155	2
+colornest095	Colornest	Colornest	1	7.77260274	Female	Asian	not Hispanic or Latino	18.87517147	Right	5th Grade	No/incomplete primary	No/incomplete primary	-1.165033967	-0.24778624	-0.477880015	0.669793642	1
+colornest096	Colornest	Colornest	1	8.142465753	Female	Asian	not Hispanic or Latino	18.40242933	Right	5th Grade	Complete primary	Complete primary	-0.657832747	-0.548639475	0.207472217	-0.465957681	1
+colornest097	Colornest	Colornest	1	8.082191781	Male	Asian	not Hispanic or Latino	16.21548579	Right	5th Grade	Complete primary	Complete primary	-0.715552983	-1.138128554	-0.708129583	2.48255634	1
+colornest098	Colornest	Colornest	1	8.926027397	Female	Asian	not Hispanic or Latino	17.41440378	Right	5th Grade	Complete primary	Complete primary	-0.7880103	-0.547112301	-0.666756614	1.491086129	1
+colornest099	Colornest	Colornest	1	16.12876712	Female	Asian	not Hispanic or Latino	18.27942061	Right	5th Grade	Complete primary	Complete secondary	-0.013085434	-0.253894936	1.331737689	0.061223308	1
+colornest100	Colornest	Colornest	1	10.97808219	Female	Asian	not Hispanic or Latino	22.1161209	Right	5th Grade	Complete secondary	Complete secondary	-1.017663153	-0.41730253	-0.546235355	0.856619185	1
+colornest101	Colornest	Colornest	1	10.97808219	Male	Asian	not Hispanic or Latino	16.3726778	Right	5th Grade	Complete primary	Complete primary	-0.017997794	-1.51228613	0.200276918	-0.306878505	1
+colornest102	Colornest	Colornest	1	12.14520548	Male	Asian	not Hispanic or Latino	16.47489853	Right	5th Grade	Complete primary	Complete primary	-1.209245211	-0.907525313	-0.459891767	0.116716043	3
+colornest103	Colornest	Colornest	1	10.51506849	Female	Asian	not Hispanic or Latino	18.06601506	Right	5th Grade	Complete primary	Complete primary	-0.925556393	-0.388286228	-0.593004799	0.54216035	1
+colornest104	Colornest	Colornest	1	10.97808219	Male	Asian	not Hispanic or Latino	19.75739381	Right	5th Grade	Complete secondary	Complete primary	1.0393878	0.88384953	0.097743907	1.239519061	10
+colornest105	Colornest	Colornest	1	8.780821918	Male	Asian	not Hispanic or Latino	22.08528929	Right	5th Grade	No/incomplete primary	No/incomplete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest106	Colornest	Colornest	1	10.99178082	Female	Asian	not Hispanic or Latino	22.29051247	Right	5th Grade	Complete tertiary	Complete tertiary	0.989036105	-0.935014441	-0.756697852	1.269115187	1
+colornest107	Colornest	Colornest	1	7.701369863	Male	Asian	not Hispanic or Latino	16.47680769	Right	5th Grade	Complete secondary	Complete tertiary	-1.026259783	0.28977893	-0.542637706	-0.724923781	1
+colornest108	Colornest	Colornest	1	10.97808219	Female	Asian	not Hispanic or Latino	17.95918367	Right	5th Grade	Complete primary	Complete secondary	0.065512334	-0.1103406	-0.584010675	-0.495553807	1
+colornest109	Colornest	Colornest	1	10.78082192	Female	Asian	not Hispanic or Latino	15.45778835	Right	5th Grade	Complete primary	Complete secondary	0.769207973	-0.635688381	1.360518885	0.218452725	1
+colornest110	Colornest	Colornest	1	12.01917808	Male	Asian	not Hispanic or Latino	19.81657201	Right	5th Grade	Complete primary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest111	Colornest	Colornest	1	11.32054795	Male	Asian	not Hispanic or Latino	28.06183115	Right	5th Grade	Complete primary	No/incomplete primary	0.640258511	-1.196161158	0.7003502	-0.454859134	1
+colornest112	Colornest	Colornest	1	9.816438356	Female	Asian	not Hispanic or Latino	16.74197384	Right	5th Grade	Complete primary	Complete primary	-1.042224955	-0.982356829	0.516870075	0.553258897	1
+colornest113	Colornest	Colornest	1	15.7890411	Female	Asian	not Hispanic or Latino	32.4704834	Right	5th Grade	No/incomplete primary	Complete primary	-0.187474231	-1.416074182	-0.369950529	-1.248405253	1
+colornest114	Colornest	Colornest	1	6.660273973	Male	Asian	not Hispanic or Latino	16.42857143	Right	5th Grade	Complete primary	Complete secondary	0.581310185	-1.880335011	-0.450897643	-0.408615187	3
+colornest115	Colornest	Colornest	1	15.24931507	Female	Asian	not Hispanic or Latino	17.89158951	Right	5th Grade	Complete primary	Complete primary	0.553064112	-1.034280737	1.499028391	1.546578865	1
+colornest116	Colornest	Colornest	1	15.20273973	Female	Asian	not Hispanic or Latino	14.13962883	Right	5th Grade	Complete tertiary	Complete tertiary	-0.550988907	-0.686085115	0.117530979	0.980552961	1
+colornest117	Colornest	Colornest	1	15.46849315	Female	Asian	not Hispanic or Latino	16.10725309	Right	5th Grade	Complete primary	Complete primary	0.968158573	-1.745943718	-0.790875522	0.061223308	1
+colornest118	Colornest	Colornest	1	10.86575342	Female	Asian	not Hispanic or Latino	24.71403145	Right	5th Grade	Complete primary	Complete primary	-0.197298952	-0.186699289	-0.193665703	2.079309127	1
+colornest119	Colornest	Colornest	1	11.57534247	Male	Asian	not Hispanic or Latino	13.2574148	Right	5th Grade	Complete secondary	Complete secondary	-1.370125017	-0.058416692	-0.395134076	-0.543647511	1
+colornest120	Colornest	Colornest	1	15.15342466	Female	Asian	not Hispanic or Latino	16.16077363	Right	5th Grade	Complete primary	Complete primary	1.022194538	-1.283210063	0.569035993	0.020528635	1
+colornest121	Colornest	Colornest	1	9.336986301	Male	Asian	not Hispanic or Latino	15.05911053	Right		Complete primary	Complete primary	-0.370459659	-0.48602535	-1.317931175	-1.124471477	1
+colornest122	Colornest	Colornest	1	8.589041096	Male	Asian	not Hispanic or Latino	15.79881657	Right		Complete primary	No/incomplete primary	-1.044681135	-0.403557966	-0.533643582	0.71418783	1
+colornest123	Colornest	Colornest	1	8.852054795	Male	Asian	not Hispanic or Latino	14.01202802	Right		Complete tertiary	Complete tertiary	-0.967311458	-0.446318832	0.459307683	-0.758219422	1
+colornest124	Colornest	Colornest	1	11.29863014	Female	Asian	not Hispanic or Latino	15.08978422	Right		Complete secondary	Complete secondary	-1.60223405	-0.734954676	-0.315985787	-0.434511797	1
+colornest125	Colornest	Colornest	1	17.34246575	Female	Asian	not Hispanic or Latino	19.11111111	Right		Complete tertiary	Complete tertiary	-1.271877808	-0.113394948	-0.432909396	0.769680566	1
+colornest126	Colornest	Colornest	1	10.62191781	Male	Asian	not Hispanic or Latino	18.82798072	Right		Complete tertiary	Complete tertiary	-0.390109101	-0.472280786	2.01708992	0.040875971	1
+colornest127	Colornest	Colornest	1	11.11780822	Male	Asian	not Hispanic or Latino	18.76163171	Right				-0.032734876	-0.46159057	-0.483276489	0.076021371	1
+colornest128	Colornest	Colornest	1	11.29863014	Male	Asian	not Hispanic or Latino	19.24444444	Right				-0.165368609	-1.428291572	-0.387938777	-0.27728238	1
+colornest129	Colornest	Colornest	1	9.42739726	Female	Asian	not Hispanic or Latino	17.578125	Right	8th Grade	Complete primary	Complete primary	-0.440460796	1.270224497	-0.220648075	-0.637985161	1
+colornest130	Colornest	Colornest	1	11.09315068	Male	Asian	not Hispanic or Latino	17.578125	Right	8th Grade			0.215339329	-1.170199203	-0.648768366	-0.637985161	2
+colornest131	Colornest	Colornest	1	13.64931507	Male	Asian	not Hispanic or Latino	18.30636116	Right	8th Grade	Complete primary	Complete primary	-0.735202425	-1.127438338	0.302809929	1.448541699	1
+colornest132	Colornest	Colornest	1	11.25205479	Male	Asian	not Hispanic or Latino	18.53221565	Right	8th Grade	Complete primary	Complete primary	-0.823624913	-1.084677472	0.344182898	0.701239525	1
+colornest133	Colornest	Colornest	1	14.14246575	Male	Asian	not Hispanic or Latino	21.74471993	Right	9th Grade	Complete secondary	Complete primary	-1.074155298	-0.111867774	-0.519252984	0.582855023	1
+colornest134	Colornest	Colornest	1	17.64109589	Female	Asian	not Hispanic or Latino	24.84447938	Right	9th Grade	Complete primary	Complete primary	-1.028715964	-0.786878585	0.506077126	0.540310592	2
+colornest135	Colornest	Colornest	1	7.701369863	Female	Asian	not Hispanic or Latino	21.8458628	Right	9th Grade	Complete primary	Complete secondary	-0.930468754	-1.034280737	-0.591205974	1.862887458	1
+colornest136	Colornest	Colornest	1	11.02739726	Male	Asian	not Hispanic or Latino	17.291453	Left	9th Grade	Complete primary	Complete primary					1
+colornest137	Colornest	Colornest	1	8.38630137	Male	Asian	not Hispanic or Latino	18.4389348	Right	9th Grade	Complete primary	Complete primary	-0.000804532	-0.776188368	1.892971012	1.130383348	11
+colornest138	Colornest	Colornest	1	16.32328767	Female	Asian	not Hispanic or Latino	24.54137542	Right	9th Grade	Complete secondary	Complete secondary	-1.281702528	-0.275275368	-0.429311746	0.778929355	1
+colornest139	Colornest	Colornest	1	7.775342466	Male	Asian	not Hispanic or Latino	24.30914256	Right	9th Grade	Complete primary	Complete secondary	-1.233807014	-0.896835097	-0.449098819	0.11116677	1
+colornest140	Colornest	Colornest	1	14.53972603	Female	Asian	not Hispanic or Latino	19.3001248	Right	11th Grade	Complete tertiary	Complete secondary	-0.060980948	-0.852547057	-0.859230863	-0.171846182	4
+colornest141	Colornest	Colornest	1	8.002739726	Female	Asian	not Hispanic or Latino	19.31054971	Right	11th Grade	Complete primary	Complete secondary	-0.7880103	-0.547112301	-0.666756614	1.491086129	1
+colornest142	Colornest	Colornest	1	7.079452055	Male	Asian	not Hispanic or Latino	15.93302728	Right	11th Grade	No/incomplete primary	No/incomplete primary	-0.634499035	-0.637215554	0.221862815	1.624268695	1
+colornest143	Colornest	Colornest	1	8.197260274	Female	Asian	not Hispanic or Latino	17.9396462	Right	11th Grade	Complete secondary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest144	Colornest	Colornest	1	13.84657534	Female	Asian	not Hispanic or Latino	18.43926204	Right	11th Grade	Complete tertiary	Complete primary	-1.209245211	-0.907525313	-0.459891767	0.116716043	3
+colornest145	Colornest	Colornest	1	12.77260274	Female	Asian	not Hispanic or Latino	16.65282228	Right	9th Grade	Complete primary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest146	Colornest	Colornest	1	9.657534247	Male	Asian	not Hispanic or Latino	18.88162672	Right	9th Grade	Complete primary	Complete primary	-0.833449634	-0.366905795	-0.636176593	-0.166296908	2
+colornest147	Colornest	Colornest	1	10.2739726	Male	Asian	not Hispanic or Latino	22.39885094	Left	9th Grade	Complete secondary	Complete secondary	-0.715552983	-0.258476457	-0.708129583	0.616150664	1
+colornest148	Colornest	Colornest	1	13.4739726	Female	Asian	not Hispanic or Latino	19.82948189	Right	11th Grade	Complete primary	Complete primary	-1.382405918	-0.221824286	-0.389737602	-0.538098237	1
+colornest149	Colornest	Colornest	1	16.77260274	Female	Asian	not Hispanic or Latino	24.53155819	Right	11th Grade	Complete primary	Complete primary	-1.203104761	-0.910579661	-0.461690592	0.858468943	1
+colornest150	Colornest	Colornest	1	9.616438356	Male	Asian	not Hispanic or Latino	18.90543227	Right	11th Grade	Complete primary	Complete secondary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest151	Colornest	Colornest	1	14.19178082	Male	Asian	not Hispanic or Latino	21.7578125	Right	9th Grade	Complete primary	No/incomplete primary	-1.044681135	-0.403557966	-0.533643582	0.71418783	1
+colornest152	Colornest	Colornest	1	10.64109589	Male	Asian	not Hispanic or Latino	20.57439984	Right	11th Grade	Complete primary	Complete primary	-1.117138452	-0.948759005	2.373257222	0.623549696	2
+colornest153	Colornest	Colornest	1	7.624657534	Female	Asian	not Hispanic or Latino	24.03460984	Right	11th Grade	Complete primary	Complete primary	-1.071699118	-0.388286228	-0.521051809	-0.042363132	1
+colornest154	Colornest	Colornest	1	8.679452055	Male	Asian	not Hispanic or Latino	18.71075227	Right	11th Grade	No/incomplete primary		1.047984431	-0.93043292	-0.861029687	0.000181299	1
+colornest155	Colornest	Colornest	1	9.81369863	Male	Asian	not Hispanic or Latino	20.85800436	Right	9th Grade	Complete primary	Complete primary	-0.349582127	-0.808259018	-0.29439989	1.400447995	1
+colornest156	Colornest	Colornest	1	12.05753425	Female	Asian	not Hispanic or Latino	19.64620187	Right	9th Grade	Complete primary	Complete tertiary	-0.366775388	-0.797568801	-0.040765599	2.208792177	1
+colornest157	Colornest	Colornest	1	6.805479452	Male	Asian	not Hispanic or Latino	19.50413223	Right	9th Grade	Complete primary	Complete primary	-1.281702528	-0.275275368	-0.429311746	0.778929355	1
+colornest158	Colornest	Colornest	1	16.96438356	Female	Asian	not Hispanic or Latino	23.0802729	Right	12th Grade	Complete primary	Complete primary	-1.211701392	0.315740884	-0.458092942	-0.625036856	1
+colornest159	Colornest	Colornest	1	16.63561644	Female	Asian	not Hispanic or Latino	19.61656805	Right	9th Grade	Complete primary	Complete primary	-0.951346286	-1.025117694	0.466502982	0.804825965	1
+colornest160	Colornest	Colornest	1	17.46849315	Female	Asian	not Hispanic or Latino	28.87544005	Right	12th Grade	Complete secondary	Complete secondary	0.205514608	-0.687612289	-1.620133734	-0.112653931	1
+colornest161	Colornest	Colornest	1	17.03561644	Female	Asian	not Hispanic or Latino			12th Grade			1.100792306	-1.072460082	-0.384341127	-0.493704049	1
+colornest162	Colornest	Colornest	1	17.21917808	Female	Asian	not Hispanic or Latino	22.2696887	Right	11th Grade	No/incomplete primary	No/incomplete primary	1.03693162	-1.245030719	1.7976333	-0.767468211	1
+colornest163	Colornest	Colornest	1	17.90684932	Male	Asian	not Hispanic or Latino	19.84714004	Right	12th Grade	Complete primary	Complete primary	-1.249772185	-0.198916679	-0.44190352	-0.60468952	1
+colornest164	Colornest	Colornest	1	16.56438356	Female	Asian	not Hispanic or Latino	26.15211615	Right	8th Grade	No/incomplete primary	Complete primary	0.468325894	-0.020237347	-1.046308637	-0.761918938	1
+colornest165	Colornest	Colornest	1	17.29863014	Female	Asian	not Hispanic or Latino	22.62568728	Right	12th Grade	Complete primary	Complete tertiary	0.83306866	-1.089258993	-0.672153088	0.51626374	2
+colornest166	Colornest	Colornest	1	16.56712329	Female	Asian	not Hispanic or Latino	20.21250997	Right	8th Grade	Complete primary	Complete primary	1.216232777	-1.278628542	-0.492270613	1.135932621	1
+colornest167	Colornest	Colornest	1	16.98630137	Female	Asian	not Hispanic or Latino	20.17587114	Right	8th Grade	Complete primary	Complete primary					1
+colornest168	Colornest	Colornest	1	17.61917808	Female	Asian	not Hispanic or Latino	14.84591413	Right	8th Grade	Complete primary	Complete primary	-0.27958099	-1.365677447	-0.706330758	-1.185513486	1
+colornest169	Colornest	Colornest	1	12.91232877	Male	Asian	not Hispanic or Latino	20.13399993	Right	8th Grade	Complete primary	Complete primary	-0.69221927	-0.015655826	-0.720721357	1.670512641	1
+colornest170	Colornest	Colornest	1	16.28493151	Female	Asian	not Hispanic or Latino	18.62531505	Right	8th Grade	Complete secondary	Complete secondary					1
+colornest171	Colornest	Colornest	1	14.6739726	Male	Asian	not Hispanic or Latino	21.20710059	Right	12th Grade	Complete secondary	Complete primary	-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest172	Colornest	Colornest	1	13.46575342	Male	Asian	not Hispanic or Latino	18.25631871	Left	12th Grade	Complete secondary	Complete tertiary					1
+colornest173	Colornest	Colornest	1	15.8739726	Female	Asian	not Hispanic or Latino	17.00680272	Right	12th Grade	Complete primary	Complete primary	-1.475740768	-0.797568801	-0.357358756	0.962055383	1
+colornest174	Colornest	Colornest	1	14.35616438	Male	Asian	not Hispanic or Latino	20.57433449	Right	12th Grade	Complete primary	Complete primary	0.73482145	0.072920253	-1.42945831	-0.168146666	1
+colornest175	Colornest	Colornest	1	13.52328767	Female	Asian	not Hispanic or Latino	19.48696145	Right	12th Grade	Complete primary	Complete primary					2
+colornest176	Colornest	Colornest	1	14.6739726	Male	Asian	not Hispanic or Latino	19.96579417	Right	12th Grade	Complete primary	Complete primary	-0.490812491	-1.252666588	-0.774686099	0.031627182	2
+colornest177	Colornest	Colornest	1	13.2	Female	Asian	not Hispanic or Latino	19.42112989	Right	12th Grade	Complete primary	Complete primary	-1.281702528	-0.275275368	-0.429311746	0.778929355	1
+colornest178	Colornest	Colornest	1	15.83561644	Male	Asian	not Hispanic or Latino	18.7961895	Right	12th Grade	Complete secondary	Complete secondary	-0.216948394	0.094300686	-1.400677114	-0.031264585	1
+colornest179	Colornest	Colornest	1	15.61643836	Male	Asian	not Hispanic or Latino	17.94181725	Right	12th Grade	Complete primary	Complete primary	-0.799063111	-1.096894862	0.061767412	0.323888923	2
+colornest180	Colornest	Colornest	1	14.35616438	Male	Asian	not Hispanic or Latino	22.33227531	Right	12th Grade	Complete secondary	Complete primary	-0.17642142	-0.776188368	-0.997740369	-0.826660463	1
+colornest181	Colornest	Colornest	1	14.84657534	Male	Asian	not Hispanic or Latino	18.06972789	Right	12th Grade	Complete primary	Complete primary	-0.366775388	-0.000384088	2.984857638	1.413396299	1
+colornest182	Colornest	Colornest	1	13.87671233	Female	Asian	not Hispanic or Latino		Right	12th Grade	Complete primary	Complete primary	0.702891107	1.155686463	-1.402475939	-0.982040122	2
+colornest183	Colornest	Colornest	1	13.49041096	Female	Asian	not Hispanic or Latino	21.80059124	Right	12th Grade			-1.608374501	-0.744117719	-0.314186962	-0.432662039	1
+colornest184	Colornest	Colornest	1	16.02739726	Male	Asian	not Hispanic or Latino	25.77777778	Right	12th Grade	Complete primary	Complete primary					2
+colornest185	Colornest	Colornest	1	16.44657534	Female	Asian	not Hispanic or Latino	23.03004535	Right	12th Grade	Complete secondary	Complete secondary					2
+colornest186	Colornest	Colornest	1	14.31232877	Female	Asian	not Hispanic or Latino	17.10291493		9th Grade	Complete primary	Complete primary					1
+colornest187	Colornest	Colornest	1	13.65479452	Female	Asian	not Hispanic or Latino	19.38214469	Right	9th Grade	Complete primary	Complete primary	-0.300458522	0.692952808	1.91095926	0.756732261	1
+colornest188	Colornest	Colornest	1	17.49589041	Male	Asian	not Hispanic or Latino	21.19181907	Right	8th Grade	Complete primary	No/incomplete primary	-1.044681135	-0.403557966	-0.533643582	0.71418783	1
+colornest189	Colornest	Colornest	1	16.68219178	Male	Asian	not Hispanic or Latino	20.51508648	Right	9th Grade	Complete primary	Complete secondary					3
+colornest190	Colornest	Colornest	1	16.02739726	Male	Asian	not Hispanic or Latino	20.47826661	Right	11th Grade	Complete primary	Complete primary	-0.458882148	-1.269465499	0.03838269	2.279082975	2
+colornest191	Colornest	Colornest	1	16.58082192	Male	Asian	not Hispanic or Latino		Right	11th Grade			-0.609937232	-1.190052463	-0.085736218	0.532911561	1
+colornest192	Colornest	Colornest	1	16.83561644	Female	Asian	not Hispanic or Latino	21.1552942	Right	11th Grade	Complete primary	Complete tertiary	0.522361859	0.057648516	-0.289003415	-0.362371241	2
+colornest193	Colornest	Colornest	1	14.35616438	Male	Asian	not Hispanic or Latino	17.61043947	Right	9th Grade	Complete primary	Complete secondary					2
+colornest194	Colornest	Colornest	1	14.35616438	Male	Asian	not Hispanic or Latino	17.36111111	Right	9th Grade	Complete primary	Complete secondary	1.285005824	1.164849506	-0.557028304	-1.355691209	2
+colornest195	Colornest	Colornest	1	13.49041096	Female	Asian	not Hispanic or Latino	17.42509213	Right	8th Grade	Complete primary	Complete secondary					2
