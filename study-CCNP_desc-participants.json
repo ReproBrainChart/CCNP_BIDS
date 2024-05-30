@@ -16,13 +16,6 @@
             "Colornest": "Site 1 from CCNP study."
         }
     },
-    "session_id": {
-        "LongName": "Session",
-        "Description": "Participant's imaging session.",
-        "Levels": {
-            "ses-1": "Session 1 from CCNP study."
-        }
-    },
     "wave": {
         "LongName": "Recruitment wave",
         "Description": "Participant's recruitment wave within the study.",
