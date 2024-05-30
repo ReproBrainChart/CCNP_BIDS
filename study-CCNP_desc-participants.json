@@ -16,7 +16,7 @@
             "Colornest": "Site 1 from CCNP study."
         }
     },
-    "session": {
+    "session_id": {
         "LongName": "Session",
         "Description": "Participant's imaging session.",
         "Levels": {
